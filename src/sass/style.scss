@@ -1623,12 +1623,14 @@ body {
 		}
 
 		&__subtitle {
+			margin-top: 1em;
 			font-size: 1.8rem;
 		}
 
 		&__btns {
 			width: 75%;
 			&-btn {
+				margin-bottom: 1.5em;
 				font-size: 1.6rem;
 			}
 		}
