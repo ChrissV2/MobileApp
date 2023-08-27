@@ -1365,9 +1365,10 @@ body {
 		display: block;
 	}
 
-	// .wrapper-nav {
-	// 	position: fixed;
-	// }
+	.wrapper-nav {
+		position: sticky;
+		position: -webkit-sticky;
+	}
 
 	.faq {
 		&__questions {
@@ -1408,14 +1409,10 @@ body {
 		&__section {
 			margin: 2em 3em 2em 3em;
 
-
 			&:first-child {
 				display: none;
 			}
-
 		}
-
-
 	}
 }
 
@@ -1529,7 +1526,6 @@ body {
 	}
 
 	.blog {
-
 		margin: 5em 0;
 
 		&__title {
