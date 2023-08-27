@@ -1651,10 +1651,21 @@ body {
 			width: 281px;
 			&-title {
 				font-size: 3rem;
+				margin-top: 1em;
 			}
 
 			&-paragraph {
 				font-size: 1.6rem;
+			}
+		}
+
+		&__bottomSide {
+			&-btn {
+				margin-bottom: 1em;
+			}
+
+			&-input {
+				margin-bottom: 2.5em;
 			}
 		}
 	}
