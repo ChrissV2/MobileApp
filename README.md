@@ -16,7 +16,7 @@ Welcome to the repository for the MobileApp project. This project represents my 
 
 <img src="./screenshot.png" alt="Screenshot of my page">
 
-## Live preview
+## Live Preview
 
 You can check my page [HERE](https://chrissv2.github.io/MobileApp/)
 
